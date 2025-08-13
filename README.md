@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=googlecloudstorage&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_S3-DD344C?style=flat-square&logo=buffer&logoColor=white" />
 
 
 
