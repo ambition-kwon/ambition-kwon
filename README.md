@@ -94,8 +94,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ambition-kwon&repo=OpenSource-Supporter-BackEnd&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
 
-  <a href="https://github.com/ambition-kwon/Fullip-Backend-Official" target="_blank" style="margin-left: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ambition-kwon&repo=Fullip-Backend-Official&theme=tokyonight&hide_border=true&border_radius=10" />
+  <a href="https://github.com/ambition-kwon/Fullip-Backend-Public" target="_blank" style="margin-left: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ambition-kwon&repo=Fullip-Backend-Public&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
 </div>
 
