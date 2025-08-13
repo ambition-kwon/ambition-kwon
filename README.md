@@ -69,11 +69,15 @@
 
 ## 💻 **Problem Solving**
 <div align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ambition_kwon" width="94%" />
+<a href="https://solved.ac/profile/ambition_kwon" target="_blank">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ambition_kwon" width="94%" />
+</a>
 </div>
 <br/>
 <div align="center">
-<img src="http://mazandi.herokuapp.com/api?handle=ambition_kwon" width="94%" />
+<a href="https://solved.ac/profile/ambition_kwon" target="_blank">
+  <img src="http://mazandi.herokuapp.com/api?handle=ambition_kwon" width="94%" />
+</a>
 </div>
 </td>
 </tr>
