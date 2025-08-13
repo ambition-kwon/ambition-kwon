@@ -140,6 +140,10 @@
       <img src="https://img.shields.io/badge/CodeClub_Volunteer-3CA14A?style=for-the-badge&logo=educative&logoColor=white" alt="CodeClub Volunteer" /><br/>
       <sub style="color:#222; font-weight:600;">2024</sub>
     </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://img.shields.io/badge/2025_CES_Supporters-FFD700?style=for-the-badge&logo=vegas&logoColor=black" alt="CES Supporters" /><br/>
+      <sub style="color:#222; font-weight:600;">2025</sub>
+    </td>
   </tr>
 </table>
 
