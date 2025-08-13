@@ -55,7 +55,9 @@
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Quality_Assurance-4CAF50?style=flat-square&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/UX_Design-9B59B6?style=flat-square&logo=Figma&logoColor=white" />
 </p>
+
 
 **AI & Development Tools**
 <p>
