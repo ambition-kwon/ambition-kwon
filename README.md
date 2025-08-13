@@ -106,19 +106,12 @@
 ## 🏆 Achievements
 
 #### 🥇 Government Awards
-<p>
-  <a href="https://www.veritas-a.com/news/articleView.html?idxno=527049" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/중소벤처기업부_장관상-FF6B35?style=for-the-badge&logoColor=white" alt="중소벤처기업부 장관상" />
-  </a>
-</p>
+&emsp;&emsp;[![중소벤처기업부 장관상](https://img.shields.io/badge/중소벤처기업부_장관상-Click-FF6B35?style=flat-square&logoColor=white&colorA=FF6B35&colorB=555555)](https://www.veritas-a.com/news/articleView.html?idxno=527049)
 
 #### 🏅 Technical Excellence
-<p>
-  <a href="https://www.veritas-a.com/news/articleView.html?idxno=533461#google_vignette" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/한국정보기술학회_은상-45B7D1?style=for-the-badge&logoColor=white" alt="한국정보기술학회 은상" />
-  </a>
-  <img src="https://img.shields.io/badge/벤처기업협회장상-4ECDC4?style=for-the-badge&logoColor=white" alt="벤처기업협회장상" />
-</p>
+&emsp;&emsp;[![한국정보기술학회 은상](https://img.shields.io/badge/한국정보기술학회_은상-Click-45B7D1?style=flat-square&logoColor=white&colorA=45B7D1&colorB=555555)](https://www.veritas-a.com/news/articleView.html?idxno=533461#google_vignette)
+&nbsp;&nbsp;
+![벤처기업협회장상](https://img.shields.io/badge/벤처기업협회장상-4ECDC4?style=flat-square&logoColor=white)
 
 <br/>
 
@@ -153,14 +146,6 @@
 
 
 ## 📬 Contact Me
+&emsp;&emsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prince5390@gmail.com)
+&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambition-kwon/)
 
-<div align="center">
-
-<a href="mailto:prince5390@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://www.linkedin.com/in/ambition-kwon/" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=lobsters&logoColor=white" alt="LinkedIn" />
-</a>
-</div>
