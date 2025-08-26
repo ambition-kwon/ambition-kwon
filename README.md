@@ -103,19 +103,6 @@
 
 <br/>
 
-
-## 🏆 Achievements
-
-#### 🥇 Government Awards
-&emsp;&emsp;[![중소벤처기업부 장관상](https://img.shields.io/badge/중소벤처기업부_장관상-Click-FF6B35?style=flat-square&logoColor=white&colorA=FF6B35&colorB=555555)](https://www.veritas-a.com/news/articleView.html?idxno=527049)
-
-#### 🏅 Technical Excellence
-&emsp;&emsp;[![한국정보기술학회 은상](https://img.shields.io/badge/한국정보기술학회_은상-Click-45B7D1?style=flat-square&logoColor=white&colorA=45B7D1&colorB=555555)](https://www.veritas-a.com/news/articleView.html?idxno=533461#google_vignette)
-&nbsp;&nbsp;
-![벤처기업협회장상](https://img.shields.io/badge/벤처기업협회장상-4ECDC4?style=flat-square&logoColor=white)
-
-<br/>
-
 ## 🎖️ Memberships & Volunteering
 
 <div align="center">
