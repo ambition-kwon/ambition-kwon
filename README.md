@@ -23,46 +23,41 @@
 
 **Backend Mastery**  
 <p>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
 </p>
 
 **Database & Infrastructure**  
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=googlecloudstorage&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_S3-DD344C?style=flat-square&logo=buffer&logoColor=white" />
-
-
-
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=googlecloudstorage&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-DD344C?style=flat-square&logo=buffer&logoColor=white" />
 </p>
 
 **DevOps**  
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab_Runner-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_Runner-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
 </p>
 
 
 **Cross-functional Skills**  
 <p>
-<img src="https://img.shields.io/badge/Project_Management-FF6B6B?style=flat-square&logo=trello&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Quality_Assurance-4CAF50?style=flat-square&logo=checkmarx&logoColor=white" />
-<img src="https://img.shields.io/badge/UX_Design-9B59B6?style=flat-square&logo=Figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project_Management-FF6B6B?style=flat-square&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Quality_Assurance-4CAF50?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/UX_Design-9B59B6?style=flat-square&logo=Figma&logoColor=white" />
 </p>
 
 
 **AI & Development Tools**
 <p>
-<img src="https://img.shields.io/badge/Claude_Code-FF6B35?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-FF6B35?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" />
 </p>
 
 </td>
