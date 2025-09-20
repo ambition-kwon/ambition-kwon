@@ -82,7 +82,7 @@
 
 <br/>
 
-## 🚀 **Featured Projects**
+## ⭐ **Featured Projects**
 
 <p align="center">
   <a href="https://github.com/ambition-kwon/Maeum-Ieum">
@@ -99,7 +99,7 @@
 
 <br/>
 
-## 🎖️ Memberships & Volunteering
+## 🎖️ **Activities**
 
 <div align="center">
 
