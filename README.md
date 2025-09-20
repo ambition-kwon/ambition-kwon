@@ -87,18 +87,19 @@
 
 <br/>
 
-
 ## 🚀 **Featured Projects**
 
-<div align="center">
-  <a href="https://github.com/ambition-kwon/OpenSource-Supporter-BackEnd" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ambition-kwon&repo=OpenSource-Supporter-BackEnd&theme=tokyonight&hide_border=true&border_radius=10" />
+<p align="center">
+  <a href="https://github.com/ambition-kwon/Maeum-Ieum">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ambition-kwon&repo=Maeum-Ieum&theme=tokyonight&hide_border=true&border_radius=10" width="33%"/>
   </a>
-
-  <a href="https://github.com/ambition-kwon/Fullip-Backend-Public" target="_blank" style="margin-left: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ambition-kwon&repo=Fullip-Backend-Public&theme=tokyonight&hide_border=true&border_radius=10" />
+  <a href="https://github.com/ambition-kwon/OpenSource-Supporter-BackEnd" style="margin: 0 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ambition-kwon&repo=OpenSource-Supporter-BackEnd&theme=tokyonight&hide_border=true&border_radius=10" width="33%"/>
   </a>
-</div>
+  <a href="https://github.com/ambition-kwon/Fullip-Backend-Public">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ambition-kwon&repo=Fullip-Backend-Public&theme=tokyonight&hide_border=true&border_radius=10" width="33%"/>
+  </a>
+</p>
 
 
 <br/>
