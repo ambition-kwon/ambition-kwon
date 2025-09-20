@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Mutual%20Understanding,%20Mutual%20Growth&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20•%20Cross-functional%20Collaborator%20&descAlignY=55&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Mutual%20Understanding,%20Mutual%20Growth&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descSize=16)
 
 </div>
 
