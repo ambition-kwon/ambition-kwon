@@ -7,9 +7,9 @@
 <div align="center">
 
 ## 🤝 **My Development Philosophy**
-*BackEnd를 전문으로 하며 Project Manager, UI / UX Designer, FrontEnd, QA 등  
-다양한 직군의 요구사항과 제약의 이해를 바탕으로   
-원활한 협업을 통해 최선의 결과를 만드는 것을 목표로 합니다.*
+*BackEnd 개발 전문성을 바탕으로 PM, UI/UX, FrontEnd, QA 등  
+여러 직군과의 협업 경험을 통해 각자의 니즈를 이해하고,  
+함께 더 나은 결과물을 만드려 노력합니다.*
 </div>
 <br/>
 <br/>
